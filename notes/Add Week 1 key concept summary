@@ -1,0 +1,19 @@
+# Week 01 — Key Concepts
+
+## PKI Explanation (3–5 Sentences) at 0740 on 07mar26
+
+Write a clear explanation of what PKI is in your own words.
+
+Focus on:
+- Q1) The problem PKI solves?
+- - Public Key Infrastructure represents the CIA Triad's Integrity and the additional component Authentication. PKI is used for electronic data and services to be securely transmitted/utilized internally (Company/Org/Enterprise) and externally (Internet servers/services). And PKI Encryption helps to secure/protect the data communicated using Asymmetric Key Pairs which is a Public Key and a Private Key.  
+    
+- Q2) The role of keys?
+- - The Asymmetric Key Pairs, which is a Public Key and a Private Key, have the responsibility of protecting/securing Confidential or Critical data when it communicated internally and/or externally of the Network. 
+
+- Q3) The role of certificates?
+- - Digital Certificates have the responsibility of ensuring that Web services/Internet servers are accounted as trustworthy to use and will protect customer data.   
+
+- Q4) How trust is established?
+- - The Secure Encryption titled TLS/Transport Layer Security aids in securing this trust by providing the website/Internet server with a lock icon and the url begins with HTTPS, not HTTP.
+    
