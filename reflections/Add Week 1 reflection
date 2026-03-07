@@ -1,0 +1,30 @@
+# Week X Reflection
+
+Submit this in your portfolio repository:
+reflections/week-XX.md (Week 01) at 0830 on 07mar26
+
+---
+
+## Prompts
+
+1. What did you learn this week?
+- - I learned that PKI and PKI Encryption are separate things. Which this Cohort I realize focuses on Public Key Infrastructure which is securing the Enterprise in vast ways, not just protecting data communicated on the Internet. 
+
+2. What concept was most challenging?
+- - I personally struggled with understanding the difference between Digital Signature and Digital Certificate. This stems from my ISACA CISA studying which I couldn't understand clearly what each meant and why. With this PKI Cohort, it helped me in Week 1 to look at other study notes I have and process what is this Course teaching me. I questioned "why is Digital Certificates only talked about, why hasn't Digital Signatures been mentioned?" so I figured it out yesterday and now I have my clear explanation. 
+
+3. Where does this concept appear in real-world systems?
+- - Digital Signatures are associated with authorized End Users, and Digital Certificates are associated with trusted websites/Internet services/servers so this is where PKI and PKI Encryption fit. 
+
+4. How would you explain this topic to a non-technical audience?
+- - I would explain PKI in Business terminology, I would ask the question: "what Companies/Corporations do you trust, and where does that trust stem from?". I would then describe how Public Key Infrastructure does the same thing by ensuring websites we use are trusted with our data by displaying the lock icon and HTTPS. 
+
+5. What questions remain?
+- - No further questions for me today. 
+---
+
+## Professional Growth Check at ???? on 07mar26
+
+- Did you document clearly?
+- Did you use structured formatting?
+- Was your commit message meaningful?
