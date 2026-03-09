@@ -42,9 +42,10 @@ assets/screenshots/week-01/certificate-inspection.png
 
 List at least 2–3 SAN entries:
 
-- I don't believe ISACA.org has any SAN entries especially DNS. And I don't understand how to use Windows command prompt to check because I have found steps for Linux and iOS commands.  
-- 
-- 
+(Found listed in the Certificate Viewer's details titled Certificate Subject Alternative Name)
+- - isaca.org
+- - *.brqa.isaca.org
+- - *.brqa.isaca.org
 
 ---
 
