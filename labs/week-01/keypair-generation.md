@@ -21,11 +21,11 @@ If using a browser-based generator, capture the generated key pair screen (redac
 ## Key Identification
 **Which file is the public key?**
 <!-- Example: public.key --> 
-My answer is Please see private.key in file titled Week -01 key-pair-generation (used OpenSSL via Windows).
+My answer is Please see public.key (listed second) in file titled Week -01 key-pair-generation (used OpenSSL via Windows).
 
 **Which file is the private key?**
 <!-- Example: private.key -->
-My answer is Please see public.key in file titled Week -01 key-pair-generation (used OpenSSL via Windows).
+My answer is Please see private.key (listed first) in file titled Week -01 key-pair-generation (used OpenSSL via Windows).
 
 ---
 
