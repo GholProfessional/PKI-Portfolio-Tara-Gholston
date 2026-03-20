@@ -5,3 +5,9 @@ Why hashing does NOT provide confidentiality
 What security property hashing provides
 Where hashing is used in PKI systems Examples to consider: Certificate signatures. File integrity validation. Code signing.
 
+Examples to consider:
+
+Certificate signatures.
+File integrity validation.
+Code signing.
+
