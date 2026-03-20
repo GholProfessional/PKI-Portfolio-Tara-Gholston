@@ -88,5 +88,3 @@ Lab 3
 
 
 ---
-
-## 4. Common Misconceptions
