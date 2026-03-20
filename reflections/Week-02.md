@@ -13,6 +13,7 @@ Submit this in your portfolio repository:
 I will copy and paste my PKI Cohort posts to show my progression from Week 1 and Week 2 because I struggled and was frustrated. However now I am more comfortable and at ease after Community meetings with Instructor Tonia W. and cohorts.
 
 (first Community post a week ago) 
+
 Windows Users...Week 1 Lab 1's Key Generation:
 
 Hello, all Windows users like me,
@@ -31,6 +32,7 @@ Please if anyone needs help with OpenSSL via Windows, please reach out here with
 
 
 (my reply on a Community Meeting post asking for Q&A) 
+
 My questions:
 
 1) Why are the commands using Windows for OpenSSL different than Linux and iOS?
@@ -56,6 +58,7 @@ I tried today during my work lunch hour but I had a few error messages on Powers
 I am looking to develop my next employment (next level up) as a PKI Auditor then a build into a Blockchain Investigator (do both: one as my next career and the other as a second career), especially after our few discussions like you mentioned have your expertise and also have other work you can do well in.
 
 (second Community post) 
+
 Week 2 Labs 1 - 3...I'm not understanding.
 
 Hello, Tonia W.,
@@ -70,6 +73,7 @@ But the Week 2 labs, I do not understand what to do, it is not correlating to th
 At work this week, I had thoroughly read PKI in the NIST 800-53 Revision 5 to learn from my IT/Cybersecurity Auditor work. Which opened my mind more clearly on how to go about this Course to learn. 
 
 (second Community reply)
+
 Thank you, Tonia W.! This is the big picture information that I was looking for about why are we using these tools. I personally need to understand why I'm doing something because I'm meticulous as well as inquisitive, and I can get lost in the details and will do much analysis-paralysis to figure out (solve the puzzle).
 
 As an IT/Cybersecurity Auditor (at work lunch hour right now), I would ask for documentation on these processes and procedures, or request a day to watch you do the task using the tool(s) for verification.
@@ -80,6 +84,7 @@ And the detailed cheat-sheets will help me with doing the technical/technology t
 
 
 (third Community post)
+
 My IT/Cybersecurity Auditor experience with this Course...
 
 From this moment on, I will work on and troubleshoot this Course from my work experience as an IT Auditor (be as independent as I can while learning this info.). Actually at work, I have a Cybersecurity Audit that I am working on that I may have to look at Key Management.
