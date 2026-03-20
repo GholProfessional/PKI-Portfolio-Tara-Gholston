@@ -6,6 +6,7 @@ at 0509 on 20mar26
 Explain the difference between confidentiality, integrity, and authenticity.
 
 (my first Community post from two weeks ago, I copied and pasted below)
+
 My shared thoughts on Week 1 Lessons on what is PKI...CIA Triad.
 
 Hello, Community/Cohorts,
@@ -42,9 +43,6 @@ My understanding of PKI (Infrastructure) and PKI Encryption involve:
 
 -- I feel like this also fits the identity part because as the PKI's Trust Anchor is successfully approved by the CA/Certification Authority, this is represented as the approved, created Digital Signature or Digital Certificate to the End User/Company. Going forward the End User/Company has Authentication and can gain access (Authorization) with the trusted Digital Signature or Digital Certificate.
 
-Thank you,
-
-Tara Gholston.
 ---
 
 ## 2. Week 2 Labs 1 - 3 workings
@@ -54,6 +52,8 @@ Tara Gholston.
 3) Digitally sign and verify files.
 
 Please see my three Week 2 Lab folders with the Powershell work I have completed. I forgot to screenshot my Lab 1 work on Powershell, and do have a screenshot of both Lab 2 and Lab 3. I do have documents with screenshots of Powershell work uploaded but I believe the files are too big. 
+
+
 ---
 4) Identify why private key protection is critical in PKI systems
 
@@ -90,23 +90,3 @@ Lab 3
 ---
 
 ## 4. Common Misconceptions
-
-- Misconception 1
-- Misconception 2
-
----
-
-## 5. Where This Shows Up
-
-- Web security
-- Internal enterprise systems
-- Cloud environments
-- DevOps workflows
-
----
-
-## Mental Model
-
-Short summary that ties the week back to:
-
-Identity + Trust + Verification
