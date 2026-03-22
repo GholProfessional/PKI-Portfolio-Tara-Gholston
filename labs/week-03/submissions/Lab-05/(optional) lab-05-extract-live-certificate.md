@@ -1,4 +1,4 @@
-# Lab 05 — Extract a Certificate from a Live Website
+# Lab 05 — Extract a Certificate from a Live Website (optional)
 
 ## Overview
 Briefly describe what this lab was about in your own words.
