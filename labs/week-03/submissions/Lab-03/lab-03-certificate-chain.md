@@ -5,7 +5,7 @@ at 1631 on 22mar26
 Briefly describe what this lab was about in your own words.
 What PKI concept were you investigating?
 
-My answer: My answer: From the Week 3 Lesson videos, there are four components of Digital Certificates within PKI: 1) Identity. 2) Permissions. 3) Lifecycle. 4) Trust. This Week 3 Lab 3 explained about Certificate Extensions aka Permissions, which is what can the Digital Certificate chain's hierarchy can perform or not perform. So, the PKI concept is Confidentiality and Availability of the CIA Triad including Non-Repudiation and the AAAs' Authentication. Successful Confidentiality and Availability furthers the trust that the Company/Enterprise ensures for its End Users/customers' data by protecting with more depth of defense techniques while utilizing reasonable resources.
+My answer: From the Week 3 Lesson videos, there are four components of Digital Certificates within PKI: 1) Identity. 2) Permissions. 3) Lifecycle. 4) Trust. This Week 3 Lab 3 explained about Certificate Extensions aka Permissions, which is what can the Digital Certificate chain's hierarchy can perform or not perform. So, the PKI concept is Confidentiality and Availability of the CIA Triad including Non-Repudiation and the AAAs' Authentication. Successful Confidentiality and Availability furthers the trust that the Company/Enterprise ensures for its End Users/customers' data by protecting with more depth of defense techniques while utilizing reasonable resources.
 
 ---
 
