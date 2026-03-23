@@ -1,0 +1,39 @@
+# Lab 01 — Convert Certificate Formats
+
+
+## Overview
+Briefly describe what this lab was about in your own words. What PKI concept or system behavior were you investigating?
+
+## Environment
+- Operating System:
+- Terminal Used:
+- OpenSSL Version (openssl version):
+
+I'm using Powershell.
+
+## Steps Performed
+Summarize the key steps you performed. Do not copy the lab instructions — describe what you actually did.
+
+1.
+2.
+3.
+4.
+5.
+
+## Results
+- What did the PEM file look like compared to the DER file?
+- What happened when you opened the .der file in a text editor?
+- What did the diff output show after converting PEM → DER → PEM?
+- What information was displayed when you verified the PFX?
+
+## Key Findings
+
+## Explanation
+- Why does a PFX require a password?
+- In what real-world scenario would you choose PEM vs DER vs PFX?
+- Why is it important never to commit private key files to GitHub?
+
+## Challenges / Troubleshooting
+
+## Artifacts
+- leaf_cert.pem, leaf_cert.der, leaf_cert_restored.pem, test_cert.pem, test_bundle.pfx
