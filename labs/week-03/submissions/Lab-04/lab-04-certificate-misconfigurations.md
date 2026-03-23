@@ -60,13 +60,22 @@ And the error that End Users would see an unsecure/unlocked icon (no TLS/Encrypt
 
 ## Scenario 4 — Missing Intermediate Certificate
 
+A server presents a certificate during a TLS handshake, but the intermediate certificate is not included in the chain.
+
+Question: What error would a browser likely display?
+
 **What error would a browser likely display?**
-[Your answer]
+My answer: The error of not including the Intermediate Certificate during the TLS Handshake session would cause the Digital Certificate to not be trusted for the web server/website.  
 
 **Analysis:**
 [Explain how chains establish trust, why servers must include intermediates, and why browser behavior varies]
+
+My answer: Digital Certificate chain(s) establish trust by having a hierarchy that governs the approved validation; the process of validation is to have a Root CA/Certificate that officially approves the Certificate for trust, which the Root CA is known as the grandparent that everyone trusts, whereas the Intermediate CA represents the "face" of supervising the trust validation for the Leaf Certificate that is given to the web server/website. The Intermediate CAs must be on web servers/websites because it manages the Digital Certificate as being trustworthy or revoked for End Users/public to have knowledge about while interacting/communicating with the website. 
+And Web browser behavior varies because each have their own services to provide so several need Digital Certificates to secure End Users/customers data and others may not provide services that need to be protected by TLS Digital Certificates. 
 
 ---
 
 ## Key Takeaway
 In 2-3 sentences, explain why certificate misconfiguration is one of the most common causes of PKI outages.
+
+My answer: Certificate Misconfiguration is one of the most common causes of PKI outages because End Users/employees may not have an accurate PKI Management team to maintain the scheduled and timely validation of the Digital Certificates. Another reason could be that End Users/employees do not have the accurate training of how significant PKI and PKI Encryption is for the Company/Enterprise so it is forgotten until it is expired.  
