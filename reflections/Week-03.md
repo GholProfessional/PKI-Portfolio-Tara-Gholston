@@ -1,4 +1,6 @@
 # Week 3 Reflection
+at 1005 on 22mar26
+
 
 Submit this in your portfolio repository:
 
@@ -9,10 +11,10 @@ Submit this in your portfolio repository:
 ## Prompts
 
 1. What did you learn this week?
-
+I learned this week about viewing the website isaca.org's Digital Certificate and its Certificate chain/hierarchy on the tool titled Powershell.  
 
 2. What concept was most challenging?
-The most challenging was the Digital Certificate from the webiste I chose needs to be verified on Powershell using OpenSSL. And I have found the root cause of how Powershell needs to have an additional tool to view and accept the Digital Certificate Trusted Stores and I did the analysis for it. Then I provided my results/information to my Instructor who gave all of us PKI Cohorts the helpful steps of how to download the mandatory Powershell command for the Digital Certificate Trusted Stores. Now, I am able to explain that the same command behaves differently across platform tools like OpenSSL, Powershell, Macintosh/MacBook terminal, etc. is exactly the kind of operational knowledge this lab is designed to build.  
+The most challenging was the Digital Certificate from the webiste I chose needs to be verified on Powershell using OpenSSL. And I have found the root cause of how Powershell needs to have an additional tool to view and accept the Digital Certificate Trusted Stores and I did the analysis for it. Then I provided my results/information to my Instructor who gave all of us PKI Cohorts the helpful steps of how to download the mandatory Powershell command for the Digital Certificate Trusted Stores. Now, I am able to explain that the same command behaves differently across platform tools like OpenSSL, Powershell, Macintosh/MacBook terminal, etc. which is exactly the operational knowledge this lab is designed to build.  
 
 3. Where does this concept appear in real-world systems?
 Digital Certificates appear on each Company/Enterprises' website that needs to comply with Laws and Regulations on protecting customer data. 
