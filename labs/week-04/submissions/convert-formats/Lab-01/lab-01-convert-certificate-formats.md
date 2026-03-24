@@ -14,7 +14,8 @@ I'm using Powershell.
 ## Steps Performed
 Summarize the key steps you performed. Do not copy the lab instructions — describe what you actually did.
 
-1.
+1. at 0803 on 24mar26 (at work before I get busy): On Powershell, I viewed the isaca.org leaf certificate and I saved it to Week 04 convert-formats folder. I observed that I can easily read the BEGIN and END lines of the Certificate's signature in human lanaguage, which it tells me that its encoding/format can be saved as a PEM file.  
+
 2.
 3.
 4.
