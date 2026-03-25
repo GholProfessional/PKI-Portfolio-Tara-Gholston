@@ -18,9 +18,9 @@ Summarize the key steps you performed. Do not copy the lab instructions — desc
 
 2. at 0034 on 25mar26: I observed that the leaf_cert.der command on Powershell didn't display any results on it. However, in the converts-format folder on my laptop I do see a Digital Certificate titled leaf_cert and when I opened it I observed its details including the Certificate Chain.    
 
-3. 
+3. at 0049 on 25mar26: I observed that there is no difference in output with the original leaf_cert PEM file and the leaf_cert_restored PEM file after converting from the .der file format. And the diff command result/output on Powershell confirms that the two files cancel each out, there are two arrows: one pointing left and other pointing right in the Side Indicator area.  
 
-4.
+4. 
 
 5.
 
