@@ -44,7 +44,7 @@ at 1735 on 29mar26 - my answer: the restored PEM file displayed the same plainte
 
 - What information was displayed when you verified the PFX?
 
-at 1738 on 29mar26 - my answer: I couldn't achieve this result because I need to continue troubleshooting the step 6 and step 7 since I cannot access the password that I need to type in. 
+at 1738 on 29mar26 - my answer: I couldn't achieve this result because I need to continue troubleshooting the step 6 and step 7 since I cannot access the password that I need to type in. So, no test_bundle.pfx file exist for me. 
 
 ## Key Findings
 
