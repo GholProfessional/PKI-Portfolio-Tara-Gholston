@@ -49,10 +49,15 @@ at 1738 on 29mar26 - my answer: I couldn't achieve this result because I need to
 If you include screenshots, store them in the assets folder and reference them here:
  
 ![Description](../../assets/screenshots/week-04/Screenshot (274)_step6.2ndcmderror.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (275)_error.png) 
+
 ![Description](../../assets/screenshots/week-04/Screenshot (277)_error.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (278)_troubleshootfix.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (280)_troubleshootfix.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (284)_step6.pfxerror.png)
 
 
