@@ -1,8 +1,12 @@
 # Lab 02 — Inspect Your Trust Store
 
+at 1922 on 29mar26
 
 ## Overview
 Briefly describe what this lab was about in your own words. What PKI concept or system behavior were you investigating?
+
+My answer: 
+
 
 ## Environment
 - Operating System:
@@ -21,6 +25,11 @@ I'm using Powershell.
 - How many trusted root CAs did you find on your system?
 - Name at least one specific root CA you inspected. Include its Subject and expiration date.
 - What did the verify return code output tell you?
+
+
+If you include screenshots, store them in the assets folder and reference them here:
+![Description](../../assets/screenshots/week-04/Screenshot (285)_Wk04Lab02.png)
+
 
 ## Key Findings
 
