@@ -47,9 +47,17 @@ at 1735 on 29mar26 - my answer: the restored PEM file displayed the same plainte
 at 1738 on 29mar26 - my answer: I couldn't achieve this result because I need to continue troubleshooting the step 6 and step 7 since I cannot access the password that I need to type in. So, no test_bundle.pfx file exist for me. 
 
 If you include screenshots, store them in the assets folder and reference them here:
-![Description](../../assets/screenshots/week-04/your-screenshot.png)
+ 
+![Description](../../assets/screenshots/week-04/Screenshot (274)_step6.2ndcmderror.png)
+![Description](../../assets/screenshots/week-04/Screenshot (275)_error.png) 
+![Description](../../assets/screenshots/week-04/Screenshot (277)_error.png)
+![Description](../../assets/screenshots/week-04/Screenshot (278)_troubleshootfix.png)
+![Description](../../assets/screenshots/week-04/Screenshot (280)_troubleshootfix.png)
+![Description](../../assets/screenshots/week-04/Screenshot (284)_step6.pfxerror.png)
+
 
 ## Key Findings
+
 
 ## Explanation
 - Why does a PFX require a password?
