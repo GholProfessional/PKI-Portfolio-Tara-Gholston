@@ -42,6 +42,7 @@ at 0758 on 29mar26: GTS Root 4, Google Trust Services; and Saturday June 21, 203
 at 2020 on 29mar26: Used Powershell and received an error result of "Verify Return Code: 20 (unable to get no local issuer certificate)". After troubleshooting with Instructor Tonia W. on this error, she had me install GitBash and the accurate result "Verify Return Code: 0" worked.
 
 
+
 If you include screenshots, store them in the assets folder and reference them here:
 
 ![Description](../../assets/screenshots/week-04/Screenshot (186)_Week04Lab02_certslist.png)
