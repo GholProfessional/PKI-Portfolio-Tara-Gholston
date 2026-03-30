@@ -45,8 +45,11 @@ at 2020 on 29mar26: Used Powershell and received an error result of "Verify Retu
 If you include screenshots, store them in the assets folder and reference them here:
 
 ![Description](../../assets/screenshots/week-04/Screenshot (186)_Week04Lab02_certslist.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (191)_ISACA.Subj&ExpirDate.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (197)_PowershelleVerify20error.png)
+
 ![Description](../../assets/screenshots/week-04/Screenshot (285)_Wk04Lab02.verifycode0.png)
 
 
