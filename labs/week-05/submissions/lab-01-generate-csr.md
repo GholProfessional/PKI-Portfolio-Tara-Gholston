@@ -1,4 +1,4 @@
-# Lab — [Lab Title]
+# Lab — Generate a CSR and Simulate the Issuance Workflow
 
 ## Overview
 Briefly describe the purpose of this lab in your own words.
