@@ -16,8 +16,12 @@ Summarize the key steps you performed to complete the lab.
 Do **not copy the lab instructions**.
 Describe what you actually did.
 
-1.
-2.
+1. Week 5 Lab 02 step 2 - Retrieve the Certificate Chain: What is the Subject (issued to) and what is the Issuer (signed by)?
+  My answer: Subject issued to GitHub.com, and Issuer signed by Sectigo Limited.   
+
+2. 
+
+
 3.
 
 ---
