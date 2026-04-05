@@ -65,6 +65,13 @@ Example of what an embedded image looks like:
 ![Certificate output showing SAN field](../../../assets/screenshots/san-field.png)
 ```
 
+My Option B two screenshots on test_csr errors: 
+<img width="1366" height="768" alt="Week5Lab1_step3test_csr error" src="https://github.com/user-attachments/assets/7639fab7-885c-4dc7-963c-9d9468a59362" />
+
+<img width="1366" height="768" alt="Week5Lab1_step3test_csr error1" src="https://github.com/user-attachments/assets/a749736a-8a98-4a03-8633-c3cecc4a2587" />
+
+
+
 ---
 
 ## Key Findings
