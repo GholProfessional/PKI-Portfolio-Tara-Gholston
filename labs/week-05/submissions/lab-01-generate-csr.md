@@ -16,11 +16,15 @@ Summarize the key steps you performed to complete the lab.
 Do **not copy the lab instructions**.
 Describe what you actually did.
 
-1. Lab-01 step 2 - What is the key type and size shown in the output? My answer: the private key is hexadecimal type and its size is 2048 bit, 2 primes. 
+1. Lab-01 step 2 - What is the key type and size shown in the output? My answer: the private key is hexadecimal type and its size is 2048 bit, 2 primes.
+
+Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below. 
 
 2. 
 
-3.
+3. 
+   
+4.  
 
 
 ---
@@ -99,7 +103,9 @@ Examples:
 - Verification failures and how you diagnosed them
 
 ## Challenges - 
-1) Lab-01 step 3 Generate a CSR/Certificate Signing Request: when I use the step 3 command on GitBash, I cannot generate a CSR file so see the result/output I received is "Can't open "C:\Program Files\OpenSSL-Win64\bin\openssl.cfg" for reading, No such
+1) Lab-01 step 3 Generate a CSR/Certificate Signing Request: when I use the step 3 command on GitBash, I cannot generate a CSR file so see the result/output I received is:
+
+"Can't open "C:\Program Files\OpenSSL-Win64\bin\openssl.cfg" for reading, No such
  file or directory
 004F0000:error:80000002:system library:BIO_new_file:No such file or directory:..
 /openssl-3.5.5/crypto/bio/bss_file.c:67:calling fopen(C:\Program Files\OpenSSL-W
