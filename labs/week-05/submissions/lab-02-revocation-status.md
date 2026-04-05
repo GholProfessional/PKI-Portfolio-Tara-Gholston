@@ -99,9 +99,9 @@ Document the most important observations from the lab.
 ## Explanation
 Explain why the results matter.
 
-1) Why does an OCSP query require both the leaf certificate and the issuer certificate?
-2) What is the difference between OCSP and CRL in practice?
-3) What would happen if a system trusted a revoked certificate because OCSP was unavailable?
+- Why does an OCSP query require both the leaf certificate and the issuer certificate?
+- What is the difference between OCSP and CRL in practice?
+- What would happen if a system trusted a revoked certificate because OCSP was unavailable?
 
 1) The Issuer Certificate is needed along with the Leaf Certificate in the command for Week 5 Lab 2 step 8 because the result/output will provide any revoked information on the Subject/Leaf Certificate that had been documented by the Issuer/CA.
    
