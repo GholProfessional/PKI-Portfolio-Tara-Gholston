@@ -98,6 +98,18 @@ Examples:
 - Missing files or dependencies
 - Verification failures and how you diagnosed them
 
+## Challenges - 
+1) Lab-01 step 3 Generate a CSR/Certificate Signing Request: when I use the step 3 command on GitBash, I cannot generate a CSR file so see the result/output I received is "Can't open "C:\Program Files\OpenSSL-Win64\bin\openssl.cfg" for reading, No such
+ file or directory
+004F0000:error:80000002:system library:BIO_new_file:No such file or directory:..
+/openssl-3.5.5/crypto/bio/bss_file.c:67:calling fopen(C:\Program Files\OpenSSL-W
+in64\bin\openssl.cfg, r)
+004F0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.5.5/
+crypto/bio/bss_file.c:75:". 
+
+
+## Troubleshooting - 
+1) I have searched and found this Internet result (https://stackoverflow.com/questions/70365875/error-during-creation-self-signed-ssl-with-openssl) to troubleshoot but I still receive the same challenge result/output. 
 ---
 
 ## Artifacts
