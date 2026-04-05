@@ -137,7 +137,11 @@ Could not open file or uri for loading certificate from labs/week-05/submissions
 
 
 ## Troubleshooting - 
-1) I have searched and found this Internet result (https://stackoverflow.com/questions/70365875/error-during-creation-self-signed-ssl-with-openssl) to troubleshoot but I still receive the same challenge result/output. 
+1) I have searched and found this Internet result (https://stackoverflow.com/questions/70365875/error-during-creation-self-signed-ssl-with-openssl) to troubleshoot but I still receive the same challenge result/output.
+   
+2) I have found this troubleshooting in my Internet search of "creating Windows Certificate using GitBash" so I will try it now: https://www.bing.com/search?q=create%20Windows%20Certificate%20using%20gitbash%20&qs=n&form=QBRE&sp=-1&lq=0&pq=create%20windows%20certificate%20using%20gitbash%20&sc=12-41&sk=&cvid=DD305DBB49B4431CB5E19D7B1018FBD2 
+   
+3) 
 ---
 
 ## Artifacts
