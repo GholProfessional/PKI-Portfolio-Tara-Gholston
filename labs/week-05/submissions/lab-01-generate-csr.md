@@ -1,8 +1,12 @@
 # Lab — Generate a CSR and Simulate the Issuance Workflow
 
+at 0638 on 05apr26
+
 ## Overview
 Briefly describe the purpose of this lab in your own words.
 What PKI concept or system behavior were you investigating?
+
+????
 
 ---
 
@@ -12,9 +16,12 @@ Summarize the key steps you performed to complete the lab.
 Do **not copy the lab instructions**.
 Describe what you actually did.
 
-1.
-2.
+1. Lab-01 step 2 - What is the key type and size shown in the output? My answer: the private key is hexadecimal type and its size is 2048 bit, 2 primes. 
+
+2. 
+
 3.
+
 
 ---
 
