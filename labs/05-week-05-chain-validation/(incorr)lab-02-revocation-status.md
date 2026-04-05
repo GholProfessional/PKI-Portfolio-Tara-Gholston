@@ -1,6 +1,6 @@
 # Lab — Check Certificate Revocation Status with OCSP
 
-at 0950 on 05apr26
+at 0950 on 05apr26 ##(Incorrect Lab template used here!)
 
 ## Overview
 Briefly describe the purpose of this lab in your own words.
