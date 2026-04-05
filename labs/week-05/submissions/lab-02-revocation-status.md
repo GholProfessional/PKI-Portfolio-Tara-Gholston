@@ -1,8 +1,12 @@
 # Lab — Check Certificate Revocation Status with OCSP
 
+at 0950 on 05apr26
+
 ## Overview
 Briefly describe the purpose of this lab in your own words.
 What PKI concept or system behavior were you investigating?
+
+My answer: ????
 
 ---
 
