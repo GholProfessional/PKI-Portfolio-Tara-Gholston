@@ -20,13 +20,13 @@ Describe what you actually did.
 
 2. Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below.
 
-3. Lab-01 step 4 - not able to inspect the CSR file and provide my answers to what the Certificate Subject's fields since I cannot          generate a CSR file.
+3. Lab-01 step 4 - not able to inspect the CSR file and provide my answers to what the Certificate Subject's fields of Common Name, Organization, etc. since I cannot generate a CSR file.
    
-4. 
+4. Lab-01 step 5 - cannot self sign the Certificate. Please see Challenges/Troubleshoot section below.
 
-5. 
+5. Lab-01 step 6 - not able to inspect the Self Sign Certificate file and provide my answers to what is the Certificate's Subject, Issuer, Validity: Not Before and Not After, and Public Key Algorithm as well as RSA Public Key.
    
-6.  
+6. Lab-01 step 7 (Compare CSR to Signed Certificate) - not able to extract the Public Key from the Certificate as well as cannot complete the following two steps of Public Key extracted from Private Key and compare them. Please see Challenges/Troubleshoot section below.
 
 
 ---
@@ -78,7 +78,7 @@ Examples:
 - Any unexpected behavior or results
 
 -
--
+- My answers: See the Challenges and Troubleshooting section below because I cannot figure out to accurately troubleshoot this Week 5 Lab 01 steps. 
 -
 
 ---
@@ -129,7 +129,11 @@ error: unable to load certificate request input from file 'labs/week-05/submissi
 ons/generate-csr/test_csr.pem'
 
 
-3) 
+3) Lab-01 step 7 Compare CSR to Signed Certificate: when I use the step 7's first command out of three commands on GitBash, I cannot extract the Public Key from the Certificate so see the result/output I received is:
+
+Could not open file or uri for loading certificate from labs/week-05/submissions
+/generate-csr/test_cert.pem: No such file or directory
+
 
 ## Troubleshooting - 
 1) I have searched and found this Internet result (https://stackoverflow.com/questions/70365875/error-during-creation-self-signed-ssl-with-openssl) to troubleshoot but I still receive the same challenge result/output. 
