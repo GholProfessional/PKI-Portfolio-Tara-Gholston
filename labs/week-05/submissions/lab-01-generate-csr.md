@@ -84,8 +84,8 @@ Examples:
 - What a validation result indicated
 - Any unexpected behavior or results
 
--
-- My answers: See the Challenges and Troubleshooting section below because I cannot figure out to accurately troubleshoot this Week 5 Lab 01 steps from my Windows OS computer and using GitBash. 
+
+My answers: See the Challenges and Troubleshooting section below because I cannot figure out to accurately troubleshoot this Week 5 Lab 01 steps from my Windows OS computer and using GitBash. 
 
 ---
 
