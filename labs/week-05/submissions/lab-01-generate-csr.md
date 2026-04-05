@@ -18,12 +18,10 @@ Describe what you actually did.
 
 1. Lab-01 step 2 - What is the key type and size shown in the output? My answer: the private key is hexadecimal type and its size is 2048 bit, 2 primes.
 
-   Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below.
+2. Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below.
 
-   Lab-01 step 4 - not able to inspect the CSR file and provide my answers to what the Certificate Subject's fields since I cannot          generate a CSR file.
+3. Lab-01 step 4 - not able to inspect the CSR file and provide my answers to what the Certificate Subject's fields since I cannot          generate a CSR file.
    
-3. 
-
 4. 
 
 5. 
@@ -109,14 +107,29 @@ Examples:
 ## Challenges - 
 1) Lab-01 step 3 Generate a CSR/Certificate Signing Request: when I use the step 3 command on GitBash, I cannot generate a CSR file so see the result/output I received is:
 
-"Can't open "C:\Program Files\OpenSSL-Win64\bin\openssl.cfg" for reading, No such
+Can't open "C:\Program Files\OpenSSL-Win64\bin\openssl.cfg" for reading, No such
  file or directory
 004F0000:error:80000002:system library:BIO_new_file:No such file or directory:..
 /openssl-3.5.5/crypto/bio/bss_file.c:67:calling fopen(C:\Program Files\OpenSSL-W
 in64\bin\openssl.cfg, r)
 004F0000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.5.5/
-crypto/bio/bss_file.c:75:". 
+crypto/bio/bss_file.c:75: 
 
+
+2) Lab-01 step 5 Self sign Certificate: when I use the step 5 command on GitBash, I cannot self sign so see the result/output I received is:
+
+Can't open "labs/week-05/submissions/generate-csr/test_csr.pem" for reading, No
+such file or directory
+10490000:error:80000002:system library:BIO_new_file:No such file or directory:..
+/openssl-3.5.5/crypto/bio/bss_file.c:67:calling fopen(labs/week-05/submissions/g
+enerate-csr/test_csr.pem, rb)
+10490000:error:10000080:BIO routines:BIO_new_file:no such file:../openssl-3.5.5/
+crypto/bio/bss_file.c:75:
+error: unable to load certificate request input from file 'labs/week-05/submissi
+ons/generate-csr/test_csr.pem'
+
+
+3) 
 
 ## Troubleshooting - 
 1) I have searched and found this Internet result (https://stackoverflow.com/questions/70365875/error-during-creation-self-signed-ssl-with-openssl) to troubleshoot but I still receive the same challenge result/output. 
