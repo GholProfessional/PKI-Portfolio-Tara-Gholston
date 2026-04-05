@@ -18,13 +18,16 @@ Describe what you actually did.
 
 1. Lab-01 step 2 - What is the key type and size shown in the output? My answer: the private key is hexadecimal type and its size is 2048 bit, 2 primes.
 
-Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below. 
-
+   Lab-01 step 3 - cannot generate a CSR file. Please see Challenges/Troubleshoot section below.
+   Lab-01 step 4 - not able to inspect the CSR file and provide my answers to what the Certificate Subject's fields since I cannot          generate a CSR file.
+   
 2. 
 
 3. 
+
+4. 
    
-4.  
+5.  
 
 
 ---
