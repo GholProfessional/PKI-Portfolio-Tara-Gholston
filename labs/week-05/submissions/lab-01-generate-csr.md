@@ -6,7 +6,7 @@ at 0638 on 05apr26
 Briefly describe the purpose of this lab in your own words.
 What PKI concept or system behavior were you investigating?
 
-????
+My answer: referencing the four components of Digital Certificates within PKI (from Week 3 Lesson videos): 1) Identity. 2) Permissions. 3) Lifecycle. 4) Trust. This Week 5 Lab 1 and Lab 2 explained about Identity and Trust with creating, maintaining, and validating or revoking the Digital Certificate(s).
 
 ---
 
@@ -99,7 +99,7 @@ Examples:
 - What the result means in a real-world PKI context
 - How this connects to the week's learning outcomes
 
-My answers: ????
+My answers: I don't know how to answer these since I had errors with this Lab 01 and couldn't complete it. 
 
 ---
 
