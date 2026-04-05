@@ -78,8 +78,7 @@ Examples:
 - Any unexpected behavior or results
 
 -
-- My answers: See the Challenges and Troubleshooting section below because I cannot figure out to accurately troubleshoot this Week 5 Lab 01 steps. 
--
+- My answers: See the Challenges and Troubleshooting section below because I cannot figure out to accurately troubleshoot this Week 5 Lab 01 steps from my Windows OS computer and using GitBash. 
 
 ---
 
@@ -92,6 +91,8 @@ Examples:
 - Why a validation succeeded or failed
 - What the result means in a real-world PKI context
 - How this connects to the week's learning outcomes
+
+My answers: ????
 
 ---
 
