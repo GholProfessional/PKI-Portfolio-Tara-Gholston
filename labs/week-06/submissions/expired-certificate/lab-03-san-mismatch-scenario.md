@@ -9,7 +9,7 @@ at 2017 on 20apr26
 ## Overview
 > What PKI failure type were you diagnosing?
 
-My answer - 
+My answer - Each Subject's web services are not listed in the SAN so it is causing a failure.
 
 
 ---
